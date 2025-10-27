@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "myFont";
+  font-family: myFont;
   src: url(fonts/Far_Rooznameh.ttf) format(ttf);
 }
 
@@ -18,7 +18,7 @@
 
 
   h1 {
-    font-family:'myFont';
+    font-family:'myFont','Arial';
     color: blueviolet;
 }
 p {
