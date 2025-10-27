@@ -1,6 +1,6 @@
 @font-face {
   font-family: myFont;
-  src: url(fonts/Far_Rooznameh.ttf);
+  src: url(fonts/Far_Rooznameh.ttf) format(ttf);
 }
 
 .card {
