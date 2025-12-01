@@ -1,0 +1,1 @@
+document.getElementById("test").style.backgroundColor = "#ff0000"

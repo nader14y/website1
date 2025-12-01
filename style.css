@@ -13,7 +13,6 @@
   }
   h2 {
     color: navy;
-
   }
 
 
@@ -44,4 +43,8 @@ p {
 #link {
   color: black;
   background-color: aqua;
+}
+
+.leftside {
+  text-align: left;
 }
